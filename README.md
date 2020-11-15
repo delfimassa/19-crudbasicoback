@@ -6,7 +6,7 @@
 los siguientes comandos te permiten hacer una copia del proyecto y pornerlo en funcionamiento
 
 ```Javascript 
-git clone https://github.com/delfimassa/20-rollingnewsbackend
+git clone https://github.com/delfimassa/19-cudbasicoback
 npm install
 npm run dev
 ```
