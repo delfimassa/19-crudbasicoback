@@ -3,10 +3,10 @@
 ## subsubtitulo
 
 ## comandos para ejecutar el proyecto
-los siguientes comandos te permiten hacer una copia del proye cto y pornerlo en funcionamiento
+los siguientes comandos te permiten hacer una copia del proyecto y pornerlo en funcionamiento
 
 ```Javascript 
-git clone URL
+git clone https://github.com/delfimassa/20-rollingnewsbackend
 npm install
 npm run dev
 ```
@@ -14,6 +14,4 @@ npm run dev
 **Version de sistema 1.0**
 
 ##Autores
-- Jonatan
-- Ariel
-- Plodzien
+- Delfina Massa https://www.linkedin.com/in/delfinamassa/
